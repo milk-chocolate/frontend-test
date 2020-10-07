@@ -34,4 +34,4 @@ Here are some things you can do to demonstrate the breadth of your knowledge:
 
 ## Submission
 
-Please email a link to your fork of this repository to jonny@milkchoc.com.au`.
+Please email a link to your fork of this repository to `jonny@milkchoc.com.au`.
